@@ -14,7 +14,7 @@ Informacje o komputerze na którym były wykonywane obliczenia:
 
 | Nazwa                 | Wartosć    |
 |-----------------------|------------|
-| System operacyjny     | Ubuntu x64 |
+| System operacyjny     | TODO |
 | Procesor              | TODO |
 | Ilość rdzeni          | TODO |
 | Pamięć                | TODO |
