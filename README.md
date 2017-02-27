@@ -2,7 +2,7 @@
 
 Rozwiązania zadań z przedmiotu *Bazy NoSQL*:
 
-Wybrany zbiór danych - [MovieLens](https://grouplens.org/datasets/movielens/latest/)
+Wybrany zbiór danych - [Jester](http://www.ieor.berkeley.edu/~goldberg/jester-data/)
 
 1. Zaliczenie:
  - [ ] EDA
